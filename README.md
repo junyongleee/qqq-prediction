@@ -1,4 +1,4 @@
-QQQ Forecast (작은 시계열 프로젝트)
+QQQ Forecast (작은 시계열 프로젝트, 진행 중)
 
 간단한 QQQ(ETF) 시계열 예측 프로젝트입니다.
 
@@ -13,3 +13,4 @@ QQQ Forecast (작은 시계열 프로젝트)
 2. 의존성 설치: pip install -r requirements.txt
 3. Jupyter: jupyter lab
 4. FastAPI 실행: uvicorn app.main:app --reload
+
